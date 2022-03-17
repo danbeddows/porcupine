@@ -1,3 +1,1 @@
-const HelloWorld = "Hello World";
-
-export default HelloWorld;
+export { default as import } from "./Input";
